@@ -1,2 +1,2 @@
 # Go-Examples
-Go lang Examples Learning
+Learning syntax of Go Lang >> https://gobyexample.com
